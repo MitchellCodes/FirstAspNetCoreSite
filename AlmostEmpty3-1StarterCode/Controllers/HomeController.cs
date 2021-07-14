@@ -19,5 +19,11 @@ namespace AlmostEmpty3_1StarterCode.Controllers
         {
             return View();
         }
+
+        public IActionResult FAQ()
+        {
+            ViewData["Title"] = "FAQ";
+            return View();
+        }
     }
 }

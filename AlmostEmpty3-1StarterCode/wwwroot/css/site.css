@@ -1,0 +1,13 @@
+﻿h1{
+    text-align: center;
+}
+
+a:hover{
+    color: darkgreen;
+    background-color: lightgray;
+}
+
+a{
+    padding: 1em;
+    margin: 2em;
+}
